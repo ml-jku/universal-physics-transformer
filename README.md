@@ -1,3 +1,3 @@
 # Universal Physics Transformer
 
-Full codebase is available [here](https://github.com/ml-jku/UPT)
+The official repo can be found [here](https://github.com/ml-jku/UPT).
